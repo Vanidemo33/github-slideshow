@@ -1,6 +1,6 @@
 ---
 name: Hello
-about: Describe this issue template's purpose here.
+about:  Как дела малой
 title: ''
 labels: ''
 assignees: ''
